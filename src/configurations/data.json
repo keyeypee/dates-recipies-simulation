@@ -1,0 +1,30 @@
+[
+  {
+    "day": "Saturday",
+    "item": "Chicken Biryani"
+  },
+  {
+    "day": "Sunday",
+    "item": "Mutton Biryani"
+  },
+  {
+    "day": "Monday",
+    "item": "Dosa"
+  },
+  {
+    "day": "Tuesday",
+    "item": "Tea"
+  },
+  {
+    "day": "Wednesday",
+    "item": "Poha"
+  },
+  {
+    "day": "Thursday",
+    "item": "Chicken Rice"
+  },
+  {
+    "day": "Friday",
+    "item": "Mutton Rice"
+  }
+]
